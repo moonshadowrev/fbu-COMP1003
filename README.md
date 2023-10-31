@@ -26,3 +26,38 @@ Best of luck with your studies and coding journey in COMP1003!
 ---
 
 **Remember:** Use these resources wisely and ethically to support your learning journey in COMP1003 at FB University.
+
+---
+## Turkish Translation
+
+---
+
+
+# FBU-COMP1003 Ders Ödevlerinin Çözümleri
+
+`fbu-COMP1003` deposuna hoş geldiniz. Bu depo, FB Üniversitesi'nin COMP1003 dersi için verilen ödevlerin çözümlerini içermektedir.
+
+## Feragatname
+Bu depo, **yalnızca öğrenme ve çalışma amaçlıdır**. Bu çözümlerin ders çalışmalarınızda doğrudan kullanılmasının, akademik dürüstlük politikalarını ihlal anlamına gelebileceğini anlamanız önemlidir.
+
+### Önemli Notlar:
+- **Doğrudan Kopyalama Yok:** Bu depodaki çözümlerin doğrudan kopyalanması kesinlikle yasaktır ve akademik yaptırımlara yol açabilir.
+- **Yeniden Yazın & Anlayın:** Kodları yeniden yazarak ve yorumları kaldırarak materyali anladığınızdan ve ders çalışmalarınızda uygulayabileceğinizden emin olmanız teşvik edilmektedir.
+
+## Kullanım
+- **Sadece Çalışma Amaçlı:** Bu çözümleri, anlayışınızı yönlendirmek ve ödevlerinizdeki engellerin üstesinden gelmenize yardımcı olmak için kullanın.
+- **Anlamak için Yeniden Yazın:** Çözümleri faydalı bulursanız, kendi kelimelerinizle ve kodlama tarzınızla yeniden yazmayı deneyin. Bu pratik, konseptleri daha iyi kavramanıza yardımcı olacaktır.
+- **Doğrudan Teslim Etme:** Bu kodları kendi işiniz olarak doğrudan sunmak izin verilmemekte ve akademik dürüstlüğe aykırıdır.
+
+## Katkılar
+- Bu depo, mevcut çözümlerin geliştirilmesi, alternatif çözümler ve problemlere yaklaşımlar üzerine tartışmalar şeklinde katkıları memnuniyetle karşılar.
+- Lütfen her türlü katkının da eğitim amaçlı olmasına ve akademik dürüstlük kurallarına uymasına dikkat edin.
+
+## İletişim
+Bu depo ile ilgili herhangi bir sorunuz veya öneriniz varsa, bir sorun açmaktan veya bir çekme isteği göndermekten çekinmeyin.
+
+COMP1003'teki ders çalışmalarınızda ve kodlama yolculuğunuzda size başarılar dileriz!
+
+---
+
+**Unutmayın:** COMP1003'teki öğrenme yolculuğunuzu desteklemek için bu kaynakları bilgece ve etik bir şekilde kullanın.
