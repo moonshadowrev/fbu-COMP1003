@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+//Question-5: Check whether a triangle is equilateral, scalene, or isosceles that angels entered from the keyboard by the user.
+
+/*
+ * this code is just to learn how to use if-else statements
+ * so please don't forget the rewriting for yourself and try to change variable names accordingly
+ */
 int main() {
     // Declare variables for the angles of the triangle
     int angle1, angle2, angle3;

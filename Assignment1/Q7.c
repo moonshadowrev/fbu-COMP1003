@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+// Question-7: Check a character to whether vowel or consonant that entered by the user from the keyboard.
+/*
+ * this code is just to learn how to use switch statements
+ * so please don't forget the rewriting for yourself and try to change variable names accordingly
+ */
 int main() {
     // Declare a variable for the character
     char ch;

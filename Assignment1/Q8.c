@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdbool.h>
 
+// Question-8: Check whether a number is a prime number or not entered by the user from the keyboard.
+/*
+ * this code is just to learn how to use if-else statements and loops
+ * so please don't forget the rewriting for yourself and try to change variable names accordingly
+ */
 int main() {
     // Declare variables for number and loop counter
     int num, i;

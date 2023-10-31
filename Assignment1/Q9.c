@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+//Question-9: Enter student marks (scores) and find the grade according to the following rules:
+//•	Ask the user to enter the 3 marks that are midterm, lab assignment, and final.
+//•	The equation is: midterm x 30% + lab assignment x 20% + final x 50%
+//•	Then print the corresponding grade according to the table shared in assignment document
+/*
+ * this code is just to learn how to use if-else statements
+ * so please don't forget the rewriting for yourself and try to change variable names accordingly
+ */
 int main() {
     // Declare variables for the marks
     float midterm, lab, final, total;
