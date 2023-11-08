@@ -1,0 +1,3 @@
+# for personal purposes pdf and zip files in repo is ignored
+*.zip
+*.pdf
