@@ -32,7 +32,7 @@ to compile the program manually, you can use the following commands:
 ```bash
 gcc -c trigonometric_functions.c -o trigonometric_functions.o
 gcc Question.c trigonometric_functions.o -o Question -lm
-./main
+./Question
 ```
 This will compile `trigonometric_functions.c` into an object file, then compile main.c with the `trigonometric_functions.o` object file to create the executable main,
 linking the math library with `-lm`.
