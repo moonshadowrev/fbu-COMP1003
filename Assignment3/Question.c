@@ -17,11 +17,15 @@ int main() {
     printf("sin(%f degrees) = %f\n", degree, sin_degree(degree));
     printf("cos(%f degrees) = %f\n", degree, cos_degree(degree));
     printf("tan(%f degrees) = %f\n", degree, tan_degree(degree));
+    printf("csc(%f degrees) = %f\n", degree, csc_degree(degree));
+    printf("sec(%f degrees) = %f\n", degree, sec_degree(degree));
 
     // Using the custom trigonometric functions that take radians as input
     printf("sin(%f radians) = %f\n", radian, sin_radian(radian));
     printf("cos(%f radians) = %f\n", radian, cos_radian(radian));
     printf("tan(%f radians) = %f\n", radian, tan_radian(radian));
+    printf("csc(%f radians) = %f\n", radian, csc_radian(radian));
+    printf("sec(%f radians) = %f\n", radian, sec_radian(radian));
 
     return 0;
 }

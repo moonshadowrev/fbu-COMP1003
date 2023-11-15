@@ -17,6 +17,12 @@ double sin_radian(double radian);
 double cos_radian(double radian);
 double tan_radian(double radian);
 
+double csc_degree(double degree);
+double sec_degree(double degree);
+
+double csc_radian(double radian);
+double sec_radian(double radian);
+
 // Declaring a helper function to convert degree to radian
 static inline double degree_to_radian(double degree) {
 #define PI 3.14159265358979323846

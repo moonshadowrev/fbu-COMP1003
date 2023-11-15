@@ -38,3 +38,22 @@ double tan_radian(double radian) {
     return tan(radian);
 }
 
+// Cosecant function that takes degrees as input
+double csc_degree(double degree) {
+    return 1.0 / sin_degree(degree);
+}
+
+// Secant function that takes degrees as input
+double sec_degree(double degree) {
+    return 1.0 / cos_degree(degree);
+}
+
+// Co secant function that takes radians as input
+double csc_radian(double radian) {
+    return 1.0 / sin_radian(radian);
+}
+
+// Secant function that takes radians as input
+double sec_radian(double radian) {
+    return 1.0 / cos_radian(radian);
+}
