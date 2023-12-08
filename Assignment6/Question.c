@@ -16,9 +16,20 @@ int findMax(int arr[], int n) {
     else return maxRest;
 }
 
+void printArray(int arr[], int n) {
+    printf("[ ");
+    for (int i = 0; i < n; i++)
+    {
+        printf("%d ", arr[i]);
+    }
+    printf("]\n");
+}
+
 
 int main()
 {
 	int arr[SIZE] = {-9, 30, 12, 53, 9, -43, -2, 9, 103, 95};
-	printf("%d", findMax(arr, SIZE));
+
+    printArray(arr, SIZE);
+    printf("\nThe maximum value of the array is: %d\n", findMax(arr, SIZE));
 }
